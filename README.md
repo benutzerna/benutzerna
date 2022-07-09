@@ -1,4 +1,1 @@
 - 👋 Hi, I’m benutzername
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain
-- Follow me on Ignite: https://beta.ignite.so/user/0xcaf00f2415c1e8fc9fb32995f181403dc0434a7a
